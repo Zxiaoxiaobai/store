@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f3fe7482-62c0-44f3-9d20-8648a91958f3" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/resources/mapper/UserMapper.xml" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\maven\maven_repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="F:\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2D4ZTYZyEg5bqyLdpxBLvagWZwy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Download/SpringBoot电脑商城项目-V1.0/SpringBoot电脑商城项目-V1.0/项目源码/store" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.cy.store.mapper" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\store\src\main\java\com\cy\store\service\ex" />
+      <recent name="F:\store\src\main\resources\static" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.cy.store.service" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.StoreApplication">
+    <configuration name="StoreApplicationTests.getConnection" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="store" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cy.store.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cy.store" />
+      <option name="MAIN_CLASS_NAME" value="com.cy.store.StoreApplicationTests" />
+      <option name="METHOD_NAME" value="getConnection" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserMapperTests.findByUsername" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="store" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cy.store.mapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cy.store.mapper" />
+      <option name="MAIN_CLASS_NAME" value="com.cy.store.mapper.UserMapperTests" />
+      <option name="METHOD_NAME" value="findByUsername" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserMapperTests.insert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="store" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cy.store.mapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cy.store.mapper" />
+      <option name="MAIN_CLASS_NAME" value="com.cy.store.mapper.UserMapperTests" />
+      <option name="METHOD_NAME" value="insert" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTests.login" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="store" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cy.store.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cy.store.service" />
+      <option name="MAIN_CLASS_NAME" value="com.cy.store.service.UserServiceTests" />
+      <option name="METHOD_NAME" value="login" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTests.reg" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="store" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cy.store.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cy.store.service" />
+      <option name="MAIN_CLASS_NAME" value="com.cy.store.service.UserServiceTests" />
+      <option name="METHOD_NAME" value="reg" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StoreApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="store" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cy.store.StoreApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UserServiceTests.login" />
+        <item itemvalue="JUnit.StoreApplicationTests.getConnection" />
+        <item itemvalue="JUnit.UserServiceTests.reg" />
+        <item itemvalue="JUnit.UserMapperTests.findByUsername" />
+        <item itemvalue="JUnit.UserMapperTests.insert" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f3fe7482-62c0-44f3-9d20-8648a91958f3" name="Changes" comment="" />
+      <created>1659960328912</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659960328912</updated>
+      <workItem from="1659960330062" duration="559000" />
+      <workItem from="1660467770735" duration="599000" />
+      <workItem from="1660552040707" duration="825000" />
+      <workItem from="1660553016619" duration="618000" />
+      <workItem from="1660618113950" duration="13079000" />
+      <workItem from="1660633083658" duration="8175000" />
+      <workItem from="1660789639176" duration="22628000" />
+      <workItem from="1660979073779" duration="7458000" />
+      <workItem from="1661057975985" duration="2951000" />
+      <workItem from="1661564901802" duration="54000" />
+      <workItem from="1661565094379" duration="626000" />
+      <workItem from="1661762757739" duration="3351000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="org.apache.ibatis.reflection.ReflectionException" package="org.apache.ibatis.reflection" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
